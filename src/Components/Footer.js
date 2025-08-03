@@ -55,10 +55,10 @@ function Footer() {
 
         {/* Social Media Icons */}
         <div className="d-flex justify-content-center mt-4 mb-2">
-          <a href="https://www.linkedin.com/in/saurav-singh-348694246/" className="btn btn-floating mx-2" style={{ backgroundColor: "#0082ca", color: "white" }}>
+          <a href="https://www.linkedin.com/in/nitesh-singh-1a6159245/" className="btn btn-floating mx-2" style={{ backgroundColor: "#0082ca", color: "white" }}>
             <i className="fab fa-linkedin-in"></i>
           </a>
-          <a href="https://github.com/sauravsingh003" className="btn btn-floating mx-2" style={{ backgroundColor: "#333333", color: "white" }}>
+          <a href="https://github.com/niteshchauhan0" className="btn btn-floating mx-2" style={{ backgroundColor: "#333333", color: "white" }}>
             <i className="fab fa-github"></i>
           </a>
           <a href="https://www.facebook.com/" className="btn btn-floating mx-2" style={{ backgroundColor: "#3b5998", color: "white" }}>
